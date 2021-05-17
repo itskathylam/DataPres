@@ -62,7 +62,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Search for a vector graphic of a laboratory mouse
   - Download the svg file
   - Open in Inkscape
-  - Ungroup
+  - Ungroup (may have to do a few times)
   - Try deleting some line objects
   - Try manually adjust some nodes
 
