@@ -17,8 +17,6 @@ Inkscape is an open-source, cross-platform (MacOS, Windows, or Linux) graphics e
 [**RStudio Desktop**](https://www.rstudio.com)
 RStudio is a free integrated development environment (IDE) for R, allowing us to write and run code, with many additional features and customizability. We will be generating and refining plots in RStudio using the ggplot2 package. You should already have R, RStudio, and ggplot2 installed from the previous tutorial. If not, please download and install before class. 
 
-Note: During our Zoome class, I will demo exercises while sharing my screen. As a participant, you may also be asked to share your screen to encourage everyone to try these exercises on their own computer and become familiar with the software. Note that this workshop is meant to be casual, fun, and to facilitate learning!
-
 Advantages of using free tools:
 - No dependence on expensive licenses, which may be lost after leaving institution
 - No pirating software
@@ -27,6 +25,7 @@ Advantages of using free tools:
 Disadvantages:
 - Free or open-source usually means fewer features and perhaps more bugs and crashes; be patient and save freqeuntly!
 
+*Note: During our virtual class, I will demo exercises while sharing my screen. As a participant, you may also be asked to share your screen to encourage everyone to try these exercises on their own computer and become familiar with the software. Note that this workshop is meant to be casual, fun, and to facilitate learning!*
 
 ## Inkscape exercises
 
