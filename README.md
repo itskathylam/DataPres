@@ -43,12 +43,12 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Save as pdf (File > Save a copy)
   - Export as png (page, drawing, selection)
   
-**Simplifying**: We smooth manually drawn strokes 
-Option 1:
+**Simplifying**: We smooth manually drawn strokes \
+Option 1: \
   - Select the pencil tool
   - Draw a freehand line
-  - Path > Simplify (repeat as desired)
-Option 2: 
+  - Path > Simplify (repeat as desired) \
+Option 2: \
   - Select the pencil tool
   - Change the smoothing parameter
   - Draw the freehand line
