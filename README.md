@@ -3,11 +3,11 @@
 Date: Friday May 14, 2021 <br>
 Time:  3:00-5:00 p.m. <br>
 
-#### Workshop summary
+## Workshop summary
 
 A hands-on tutorial discussing tools and tips for figure making and data visualization. This is meant to be a fun, practical tutorial on making and refining high-quality diagrams and figures for use in presentations, posters, or publications using the free, open-source vector graphics editor Inkscape as well as RStudio with the package ggplot2.
 
-#### Tutorial materials 
+## Tutorial materials 
 - [preparation before class and tutorial outline]()
 - [class slides]()
 - [inkscape exercises]()
