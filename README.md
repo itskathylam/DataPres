@@ -53,7 +53,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Download this [photograph of a Petri dish]()
 
 **Editing**: We modify an existing vector graphic
-  - Search for a vector graphic of a laboratory mouse on Wikimedia Commons
+  - Search for a vector graphic of a laboratory mouse on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
   - Download the svg file
   - Open in Inkscape
   - Ungroup
