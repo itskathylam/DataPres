@@ -51,7 +51,8 @@ We briefly cover the difference between [raster and vector images](https://docs.
 
 **Clipping**: We isolate an object in a photograph
   - Download this [photograph of a streak plate](https://github.com/itskathylam/DataPres/blob/main/inkscape/petri_gfp_crisprcas.jpg)
-  - Draw a circle shape directly over the petri dish 
+  - Import into Inkscape 
+  - Draw a circle shape directly over one of the petri dishes 
   - Change the fill to be white and transparent so you can easily place it over the object; adjust accordingly
   - Select both the circle and the image
   - Object > Clip > Set
