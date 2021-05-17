@@ -14,4 +14,3 @@ A hands-on tutorial discussing tools and tips for figure making and data visuali
 - [figure to critique]()
 - [figure refinement data1]() 
 - [figure refinement data2]()
-- [figure refinement data3]()
