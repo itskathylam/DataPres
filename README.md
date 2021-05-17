@@ -31,20 +31,18 @@ Disadvantages:
 
 We briefly cover the difference between [raster and vector images](). Then we go through a series of exercises together to learn how to use basic tools in Inkscape. These are meant to provide a foundation. *Disclaimer: I am not an expert, just self-taught!*
 
-##### Inkscape Basics
+**Inkscape Basics** \
   - General interface
   - Canvas dimensions
   - Fill and Stroke
   - Aligning
   - Save as pdf; exporting png
   
-#### Clipping
-We isolate an object in a photograph.
+**Clipping**. We isolate an object in a photograph.
 - Download the [photograph of a Petri dish]()
 - 
 
-### Simplifying
-We smooth manually drawn strokes 
+**Simplifying**. We smooth manually drawn strokes 
 
 ### Editing
 We modify an existing vector graphic from Wikimedia Commons
