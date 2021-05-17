@@ -20,7 +20,7 @@ RStudio is a free integrated development environment (IDE) for R, allowing us to
 Advantages of using free tools:
 - No dependence on expensive licenses, which may be lost after leaving institution
 - No pirating software
-- Sharing knowledge with others 
+- Facilitates sharing knowledge with others 
 
 Disadvantages:
 - Free or open-source usually means fewer features and perhaps more bugs and crashes; be patient and save freqeuntly!
