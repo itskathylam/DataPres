@@ -48,6 +48,7 @@ Option 1:
   - Select the pencil tool
   - Draw a freehand line
   - Path > Simplify (repeat as desired) \
+  
 Option 2: 
   - Select the pencil tool
   - Change the smoothing parameter
