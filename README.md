@@ -24,23 +24,23 @@ RStudio is an integrated development environment (IDE) for R, allowing us to wri
 
 We briefly cover the difference between [raster and vector images]() and do some exercises to learn to use Inkscape.
 
-#### Inkscape Basics:
+**Inkscape Basics**
   - General interface
   - Canvas dimensions
   - Fill and Stroke
   - Aligning
   - Save as pdf; exporting png
   
-#### Clipping
+**Clipping**
 We isolate an object in a photograph
 
-#### Simplifying: 
+#### Simplifying
 We smooth manually drawn strokes 
 
-#### Editing: 
+#### Editing
 We modify an existing vector graphic from Wikimedia Commons
 
-#### Tracing: 
+#### Tracing
 We convert a raster image into a vector image
 
 
