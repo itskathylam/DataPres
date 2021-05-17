@@ -38,8 +38,8 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Draw shapes; resize with and without maintaining aspect ratio
   - Draw straight lines, bezier curves, manual lines
   - Draw text; adjust space between words and kerning
-  - Fill and Stroke (colours, stroke style)
-  - Align
+  - Adjust Fill and Stroke (colours, stroke style)
+  - Align objects
   - Save as pdf (File > Save a copy)
   - Export as png (page, drawing, selection)
   
@@ -60,7 +60,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Search for the NIH logo on Google (to add to a poster presentation for example)
   - Import into Inkscape
   - Select object
-  - Path >> Trace Bitmap >> Multiple Scans >> uncheck Smooth; select Colours and specify a number of Scans that approximates the number of colours in the image 
+  - Path > Trace Bitmap > Multiple Scans > uncheck Smooth; select Colours and specify a number of Scans that approximates the number of colours in the image 
   - Click Update to get a preview 
   - Click OK; the new vector image will be generated on top of the raster image
 
