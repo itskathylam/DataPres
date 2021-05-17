@@ -38,7 +38,7 @@ We briefly cover the difference between [raster and vector images](). Then we go
   - Aligning
   - Save as pdf; exporting png
   
-**Clipping**: We isolate an object in a photograph.
+**Clipping**: We isolate an object in a photograph
 - Download the [photograph of a Petri dish]()
 - 
 
@@ -65,6 +65,5 @@ We recreate a few of the panels in the figure above and refine the plots togethe
 >“**ggplot** is designed to work iteratively. You start with a layer… then add layers.” \
 -- Hadley Wickham, ggplot2, 2nd ed. 
 
-
-- figure refinement [data1]() 
-- figure refinement [data2]()
+- Download [data1](), a recreation of the data in panel (a)
+- Download [data2](), a recreation of the data in panel (g)
