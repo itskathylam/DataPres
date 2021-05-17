@@ -1,7 +1,7 @@
 # Microbiome Mini-course: Data Presentation Workshop
 
-Date: Friday May 14, 2021 <br>
-Time:  3:00-5:00 p.m. <br>
+Date: Friday May 14, 2021 \
+Time:  3:00-5:00 p.m.
 
 
 ## Workshop summary
