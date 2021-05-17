@@ -6,7 +6,7 @@ Time:  3:00-5:00 p.m. <br>
 
 ## Workshop summary
 
-A hands-on tutorial discussing tools and tips for figure making and data visualization. This is meant to be a fun, practical tutorial on making and refining high-quality diagrams and figures for use in presentations, posters, or publications using the free, open-source vector graphics editor Inkscape as well as RStudio with the package ggplot2.
+A hands-on tutorial discussing tools and tips for figure making and data presentation. This is meant to be a fun, practical tutorial on using the free, open-source vector graphics editor Inkscape as well as RStudio with the package ggplot2. We first cover the basics of Inkscape and go through several exercises, then do a group critique of a real figure, and finally replot the data to refine in RStudio.
 
 
 ## Preparation before class
