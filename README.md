@@ -61,7 +61,8 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Try manually adjust some nodes
 
 **Tracing**: We convert a raster image into a vector image
-  - Search for the NIH logo on Google (to add to a poster presentation for example)
+  - Imagine that you are making a poster and would like to credit funding sources
+  - Search for the [NIH logo on Google Images](https://www.google.com/search?q=NIH+logo&rlz=1C5CHFA_enUS883US883&sxsrf=ALeKk01t5aydJe1NeHtW4NVjFhusTp8l2g:1621258436877&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX-d-p6tDwAhUWvJ4KHcs5AnMQ_AUoAXoECAEQAw&cshid=1621258609231260&biw=1920&bih=889)
   - Import into Inkscape
   - Select object
   - Path > Trace Bitmap > Multiple Scans > uncheck Smooth; select Colours and specify a number of Scans that approximates the number of colours in the image 
