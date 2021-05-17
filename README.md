@@ -32,7 +32,7 @@ Disadvantages:
 We briefly cover the difference between [raster and vector images](). Then we go through a series of exercises together to learn how to use basic tools in Inkscape. These are meant to provide a foundation. *Disclaimer: I am not an expert, just self-taught!*
 
 **Inkscape Basics**: 
-  - General interface
+  - General [user interface]() [(Source)](https://inkscape-manuals.readthedocs.io/en/latest/interface.html)
   - Canvas dimensions
   - Fill and Stroke
   - Aligning
