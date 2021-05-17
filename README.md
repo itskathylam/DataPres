@@ -35,7 +35,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - General [interface](https://github.com/itskathylam/DataPres/blob/main/inkscape/interface_areas.png) ([Source](https://inkscape-manuals.readthedocs.io/en/latest/interface.html))
   - Page dimensions
   - Zoom (commands bar, + and -)
-  - Draw shapes; resize with and without maintaining aspect ratio
+  - Draw shapes; rotate; resize with and without maintaining aspect ratio
   - Draw text; adjust space between words and kerning
   - Draw straight lines; draw manual lines and adjust nodes
   - Adjust Fill and Stroke (colours, stroke style)
@@ -50,7 +50,11 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Alternatively: change the smoothing parameter before drawing the freehand line
 
 **Clipping**: We isolate an object in a photograph
-  - Download this [photograph of a Petri dish]()
+  - Download this [photograph of a streak plate](https://github.com/itskathylam/DataPres/blob/main/inkscape/petri_gfp_crisprcas.jpg)
+  - Draw a circle shape directly over the petri dish 
+  - Change the fill to be white and transparent so you can easily place it over the object; adjust accordingly
+  - Select both the circle and the image
+  - Object > Clip > Set
 
 **Editing**: We modify an existing vector graphic
   - Go to [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), a free-use media repository
