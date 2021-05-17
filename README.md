@@ -63,7 +63,7 @@ We recreate a few of the panels in the figure above and refine the plots togethe
 
 >“The **g**rammar of **g**raphics tells us that a statistical graphic is a mapping from data to **aes**thetic attributes (colour, shape, size) of **geom**etric objects (points, lines, bars).” <br><br>
 >“**ggplot** is designed to work iteratively. You start with a layer… then add layers.” <br><br>
-                                                   -- Hadley Wickham, ggplot2, 2nd ed. 
+-- Hadley Wickham, ggplot2, 2nd ed. 
 
 - Download [data1](), a recreation of the data in panel (a)
 - Download [data2](), a recreation of the data in panel (g)
