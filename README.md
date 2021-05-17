@@ -96,7 +96,7 @@ We recreate a few of the panels in the figure above and refine the plots togethe
 
 - Download [data1](https://github.com/itskathylam/DataPres/blob/main/figure_refinement/data1.csv), a recreation of the data in panel (a) \
   Try geom_point vs. geom_jitter width \
-  Try shape and fill \
+  Try shape and fill 
 - Download [data2](https://github.com/itskathylam/DataPres/blob/main/figure_refinement/data2.csv), a recreation of the data in panel (g) \
   Try alpha \
   Try geom_jitter
