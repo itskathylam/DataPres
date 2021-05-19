@@ -12,7 +12,7 @@ A hands-on tutorial discussing tools and tips for figure making and data present
 
 ## Preparation before class
 
-We will use two applications that are free, open-source, and cross-platform (MacOS, Windows, or Linux).
+We will use two applications that are free, open-source, and cross-platform (macOS, Windows, or Linux).
 
 [Inkscape](https://inkscape.org) is a graphics editor that is a good free alternative to Adobe Illustrator. We will learn the basics of using Inkscape. Please download and install before class; note that a fresh install may take up to 15 minutes. 
 
