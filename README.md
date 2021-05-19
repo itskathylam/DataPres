@@ -24,9 +24,9 @@ Advantages of using free tools:
 - Facilitates sharing knowledge with others 
 
 Disadvantages:
-- Free or open-source usually means fewer features and perhaps more bugs and crashes; be patient and save your work frequently!
+- Free or open-source usually means fewer features and perhaps more bugs and crashes; be sure to save your work frequently! *Note: I have noticed that the Inkscape on MacOS is somewhat laggy, so be patient!*
 
-*Note: During our virtual class, I will demo exercises while sharing my screen. As a participant, you may also be asked to share your screen to encourage everyone to try these exercises on their own computer and become familiar with the software. Note that this workshop is meant to be casual, fun, and to facilitate learning!*
+*During our virtual class, I will demo exercises while sharing my screen. As a participant, you may also be asked to share your screen to encourage everyone to try these exercises on their own computer and become familiar with the software. Note that this workshop is meant to be casual, fun, and to facilitate learning!*
 
 ## Inkscape exercises
 
