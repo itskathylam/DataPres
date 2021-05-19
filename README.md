@@ -12,9 +12,11 @@ A hands-on tutorial discussing tools and tips for figure making and data present
 
 ## Preparation before class
 
-[Inkscape](https://inkscape.org) is an open-source, cross-platform (MacOS, Windows, or Linux) graphics editor that is a good free alternative to Adobe Illustrator. We will learn the basics of using Inkscape. Please download and install before class; note that a fresh install may take up to 15 minutes. 
+We will use two applications that are free, open-source, and cross-platform (MacOS, Windows, or Linux).
 
-[RStudio Desktop](https://www.rstudio.com) is a free integrated development environment (IDE) for R, allowing us to write and run code, with many additional features and customizability. We will be generating and refining plots in RStudio using the ggplot2 package. You should already have R, RStudio, and ggplot2 installed from the previous tutorial. If not, please download and install before class. 
+[Inkscape](https://inkscape.org) is a graphics editor that is a good free alternative to Adobe Illustrator. We will learn the basics of using Inkscape. Please download and install before class; note that a fresh install may take up to 15 minutes. 
+
+[RStudio Desktop](https://www.rstudio.com) is an integrated development environment (IDE) for R, allowing us to write and run code, with many additional features and customizability. We will be generating and refining plots in RStudio using the ggplot2 package. You should already have R, RStudio, and ggplot2 installed from the previous tutorial. If not, please download and install before class. 
 
 Advantages of using free tools:
 - No dependence on expensive licenses, which may be lost after leaving institution
