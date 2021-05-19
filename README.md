@@ -1,5 +1,6 @@
 # Microbiome Mini-course: Data Presentation Workshop
 
+Instructor: Kathy N. Lam \
 Date: Friday May 21, 2021 \
 Time:  3:00-5:00 p.m.
 
