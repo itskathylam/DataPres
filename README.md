@@ -34,7 +34,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
 
 **Inkscape Basics**: We learn to navigate and use some basic tools and functions
   - General [interface](https://github.com/itskathylam/DataPres/blob/main/inkscape/interface_areas.png) ([Source](https://inkscape-manuals.readthedocs.io/en/latest/interface.html))
-  - Zoom (commands bar or + and -)
+  - Zoom (commands bar; 5; + and -)
   - Page dimensions (conference poster vs. manuscript figure)
   - Draw shapes; rotate; resize with and without maintaining aspect ratio (Ctrl)
   - Draw text; adjust space between words and kerning
