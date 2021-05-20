@@ -47,7 +47,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
 **Simplifying**: We smooth manually drawn strokes 
   - Select the pencil tool
   - Draw a freehand line
-  - Path > Simplify (repeat as desired) 
+  - Path > Simplify (Cmd+L); repeat as desired
   - Alternatively: change the smoothing parameter before drawing the freehand line
 
 **Clipping**: We isolate an object in a photograph
