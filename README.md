@@ -35,14 +35,14 @@ We briefly cover the difference between [raster and vector images](https://docs.
 **Inkscape Basics**: We learn to navigate and use some basic tools and functions
   - General [interface](https://github.com/itskathylam/DataPres/blob/main/inkscape/interface_areas.png) ([Source](https://inkscape-manuals.readthedocs.io/en/latest/interface.html))
   - Zoom (commands bar; 5; + and -)
-  - Page dimensions (conference poster vs. manuscript figure)
+  - Page size, e.g. conference poster vs. manuscript figure (File > Document Properties)
   - Draw shapes; rotate; resize with and without maintaining aspect ratio (Ctrl)
   - Draw text; adjust space between words and kerning
   - Draw straight lines; draw manual lines and adjust nodes
-  - Adjust Fill and Stroke (colours, stroke style)
-  - Align objects (by eye with ruler, automatically with command)
+  - Fill and Stroke changing, e.g. colour, stroke style (Shift+Cmd+F)
+  - Align objects, by eye with ruler or automatically (Shift+Cmd+A)
   - Save as pdf (File > Save a copy)
-  - Export as png (page, drawing, selection)
+  - Export as png for page, drawing, or manual selection (Shift+Cmd+E)
   
 **Simplifying**: We smooth manually drawn strokes 
   - Select the pencil tool
@@ -53,6 +53,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
 **Clipping**: We isolate an object in a photograph
   - Download this [photograph of a streak plate](https://github.com/itskathylam/DataPres/blob/main/inkscape/petri_gfp_crisprcas.jpg)
   - Import into Inkscape 
+  - Resize to fit page
   - Draw a circle shape directly over one of the petri dishes 
   - Change the fill to be white and transparent so you can easily place it over the object; resize accordingly
   - Select both the circle and the image
