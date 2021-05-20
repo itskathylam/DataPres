@@ -57,13 +57,14 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Change the fill to be white and transparent so you can easily place it over the object; resize accordingly
   - Select both the circle and the image
   - Object > Clip > Set
+  - Export as png (300 dpi)
 
 **Editing**: We modify an existing vector graphic
   - Go to [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), a free-use media repository
   - Search for a vector graphic of a laboratory mouse
   - Download the svg file
   - Open in Inkscape
-  - Ungroup (may have to do a few times)
+  - Ungroup (may have to do several times)
   - Try deleting some line objects
   - Try manually adjust some nodes
 
