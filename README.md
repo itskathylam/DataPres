@@ -32,7 +32,7 @@ Disadvantages:
 
 We briefly cover the difference between [raster and vector images](https://docs.google.com/presentation/d/1WP622YQeQTGh7a6g0D4qdTETr5GE8pV1PyJQhs2Z68U/edit#slide=id.g5843f28961_0_116). Then we go through a series of exercises together to learn how to use basic tools in Inkscape. These are meant to provide a foundation. *Disclaimer: I am not an expert, just self-taught!*
 
-**Examples**: Compare the figures in these the following two papers:
+**Examples**: Compare the figures in these the following two papers; which uses vector graphics?
   - Lam KN, van Bakel H, Cote AG, van der Ven A, Hughes TR. Sequence specificity is obtained from the majority of modular C2H2 zinc-finger arrays. Nucleic Acids Res. **2011**. ([PDF](https://github.com/itskathylam/DataPres/blob/main/inkscape/Lam_NAR.pdf))
   - Lam KN, Alexander M, Turnbaugh PJ. Precision medicine goes microscopic: engineering the microbiome to improve drug outcomes. Cell Host & Microbe. **2019**. ([PDF](https://github.com/itskathylam/DataPres/blob/main/inkscape/Lam_CHM.pdf))
 
