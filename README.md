@@ -34,7 +34,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
 
 **Examples**: Compare the figures in these the following two papers:
   - Lam KN, van Bakel H, Cote AG, van der Ven A, Hughes TR. Sequence specificity is obtained from the majority of modular C2H2 zinc-finger arrays. Nucleic Acids Res. 2011; 1–11. ([PDF](https://github.com/itskathylam/DataPres/blob/main/inkscape/Lam_NAR.pdf))
-  - Lam KN, Alexander M, Turnbaugh PJ. Precision Medicine Goes Microscopic: Engineering the Microbiome to Improve Drug Outcomes. Cell Host & Microbe. 2019. pp. 22–34. ([PDF](https://github.com/itskathylam/DataPres/blob/main/inkscape/Lam_CHM.pdf))
+  - Lam KN, Alexander M, Turnbaugh PJ. Precision medicine goes microscopic: engineering the microbiome to improve drug outcomes. Cell Host & Microbe. 2019. pp. 22–34. ([PDF](https://github.com/itskathylam/DataPres/blob/main/inkscape/Lam_CHM.pdf))
 
 **Inkscape Basics**: We learn to navigate and use some basic tools and functions
   - General [interface](https://github.com/itskathylam/DataPres/blob/main/inkscape/interface_areas.png) ([Source](https://inkscape-manuals.readthedocs.io/en/latest/interface.html))
