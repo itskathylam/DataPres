@@ -105,7 +105,7 @@ We recreate a few of the panels in the figure above and refine the plots togethe
 - Download [data1](https://github.com/itskathylam/DataPres/blob/main/figure_refinement/data1.csv), a recreation of the data in panel (a) \
   Recreate the plot with geom_bar and geom_point (note that order matters!) \
   Try geom_jitter width and set the seed \
-  Try changing the shape and fill 
+  Try changing the shape and fill \
   Adjust the y-axis labels
 - Download [data2](https://github.com/itskathylam/DataPres/blob/main/figure_refinement/data2.csv), a recreation of the data in panel (g) \
   Recreate the plot with geom_point \
