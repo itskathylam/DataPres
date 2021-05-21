@@ -39,12 +39,12 @@ We briefly cover the difference between [raster and vector images](https://docs.
 **Inkscape Basics**: We learn to navigate and use some basic tools and functions
   - General [interface](https://github.com/itskathylam/DataPres/blob/main/inkscape/interface_areas.png) ([Source](https://inkscape-manuals.readthedocs.io/en/latest/interface.html))
   - Zoom (commands bar; 5; + and -)
-  - Page size, e.g. conference poster vs. manuscript figure (File > Document Properties)
   - Draw shapes; rotate; resize with and without maintaining aspect ratio (Ctrl)
   - Draw text, e.g., title for a poster; adjust space between words and kerning
   - Draw straight lines; draw manual lines and adjust nodes
   - Fill and Stroke changing, e.g. colour, stroke style (Shift+Cmd+F)
   - Align objects, by eye with ruler or automatically (Shift+Cmd+A)
+  - Adjust Page size, e.g. conference poster vs. manuscript figure (File > Document Properties)
   - Save as pdf (File > Save a copy)
   - Export as png for page, drawing, or manual selection (Shift+Cmd+E)
   
