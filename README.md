@@ -44,9 +44,10 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Save as pdf (File > Save a copy)
   - Export as png for page, drawing, or manual selection (Shift+Cmd+E)
   
-**Simplifying**: We smooth manually drawn strokes 
-  - Select the pencil tool
-  - Draw a freehand line
+**Simplifying**: We smooth manually drawn strokes
+  - Draw a bacterial cell using the rectangle tool and adjusting the corners to be round 
+  - Add a flagellum by drawing a freehand line using the pencil tool 
+  - Cick on the flagellum
   - Path > Simplify (Cmd+L); repeat as desired
   - Alternatively: change the smoothing parameter before drawing the freehand line
 
