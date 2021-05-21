@@ -86,8 +86,10 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Search for the [NIH logo on Google Images](https://www.google.com/search?q=NIH+logo&rlz=1C5CHFA_enUS883US883&sxsrf=ALeKk01t5aydJe1NeHtW4NVjFhusTp8l2g:1621258436877&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX-d-p6tDwAhUWvJ4KHcs5AnMQ_AUoAXoECAEQAw&cshid=1621258609231260&biw=1920&bih=889)
   - Save the first bitmap
   - Import into Inkscape
-  - Select object
-  - Path > Trace Bitmap > Multiple Scans > uncheck Smooth; select Colours and specify a number of Scans that approximates the number of colours in the image 
+  - Select the object
+  - Path > Trace Bitmap > Multiple Scans 
+  - Uncheck Smooth; check Stack and Remove Background
+  - Select Colours and specify a number of Scans that approximates the number of colours in the image (3)
   - Click Update to get a preview 
   - Click OK; the new vector image will be generated on top of the raster image
   - Move the vector image and delete the older raster image
