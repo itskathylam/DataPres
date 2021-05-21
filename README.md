@@ -81,10 +81,10 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Save as new file and close 
 
 **Tracing**: We convert a raster image into a vector image
-  - Open Inkscape and save the file
   - Imagine that you are making a poster and would like to credit funding sources
   - Search for the [NIH logo on Google Images](https://www.google.com/search?q=NIH+logo&rlz=1C5CHFA_enUS883US883&sxsrf=ALeKk01t5aydJe1NeHtW4NVjFhusTp8l2g:1621258436877&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX-d-p6tDwAhUWvJ4KHcs5AnMQ_AUoAXoECAEQAw&cshid=1621258609231260&biw=1920&bih=889)
   - Save the first bitmap
+  - Open Inkscape and save the file
   - Import into Inkscape
   - Select the object
   - Path > Trace Bitmap > Multiple Scans 
