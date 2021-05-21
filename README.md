@@ -37,6 +37,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Lam KN, Alexander M, Turnbaugh PJ. Precision medicine goes microscopic: engineering the microbiome to improve drug outcomes. Cell Host & Microbe. **2019**. ([PDF](https://github.com/itskathylam/DataPres/blob/main/inkscape/Lam_CHM.pdf))
 
 **Inkscape Basics**: We learn to navigate and use some basic tools and functions
+  - Open Inkscape and save the file
   - General [interface](https://github.com/itskathylam/DataPres/blob/main/inkscape/interface_areas.png) ([Source](https://inkscape-manuals.readthedocs.io/en/latest/interface.html))
   - Zoom (commands bar; 5; + and -)
   - Draw shapes; rotate; resize with and without maintaining aspect ratio (Ctrl)
@@ -55,8 +56,10 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Click on the flagellum with the selection tool
   - Path > Simplify (Cmd+L); repeat as desired
   - Alternatively: change the smoothing parameter before drawing the freehand line
+  - Save and close the file
 
 **Clipping**: We isolate an object in a photograph
+  - Open Inkscape and save the file
   - Download this [photograph of a streak plate](https://github.com/itskathylam/DataPres/blob/main/inkscape/petri_gfp_crisprcas.jpg)
   - Import into Inkscape 
   - Resize to fit page
@@ -65,6 +68,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Select both the circle and the image
   - Object > Clip > Set
   - Export as png (try width of 100 px vs. 1000 px; open in Chrome)
+  - Save and close the file
 
 **Editing**: We modify an existing vector graphic
   - Go to [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), a free-use media repository
@@ -74,8 +78,10 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Ungroup (may have to do several times)
   - Try deleting some line objects
   - Try manually adjust some nodes
+  - Save as new file and close 
 
 **Tracing**: We convert a raster image into a vector image
+  - Open Inkscape and save the file
   - Imagine that you are making a poster and would like to credit funding sources
   - Search for the [NIH logo on Google Images](https://www.google.com/search?q=NIH+logo&rlz=1C5CHFA_enUS883US883&sxsrf=ALeKk01t5aydJe1NeHtW4NVjFhusTp8l2g:1621258436877&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX-d-p6tDwAhUWvJ4KHcs5AnMQ_AUoAXoECAEQAw&cshid=1621258609231260&biw=1920&bih=889)
   - Save the first bitmap
@@ -84,6 +90,8 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Path > Trace Bitmap > Multiple Scans > uncheck Smooth; select Colours and specify a number of Scans that approximates the number of colours in the image 
   - Click Update to get a preview 
   - Click OK; the new vector image will be generated on top of the raster image
+  - Move the vector image and delete the older raster image
+  - Save and close the file
 
 
 ## Figure Critique 
