@@ -44,7 +44,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Draw straight lines; draw manual lines and adjust nodes
   - Fill and Stroke changing, e.g. colour, stroke style (Shift+Cmd+F)
   - Align objects, by eye with ruler or automatically (Shift+Cmd+A)
-  - Adjust Page size, e.g. conference poster vs. manuscript figure (File > Document Properties)
+  - Adjust Page size and units, e.g. poster vs. manuscript figure (File > Document Properties)
   - Save as pdf (File > Save a copy)
   - Export as png for page, drawing, or manual selection (Shift+Cmd+E)
   
