@@ -41,7 +41,7 @@ We briefly cover the difference between [raster and vector images](https://docs.
   - Zoom (commands bar; 5; + and -)
   - Page size, e.g. conference poster vs. manuscript figure (File > Document Properties)
   - Draw shapes; rotate; resize with and without maintaining aspect ratio (Ctrl)
-  - Draw text; adjust space between words and kerning
+  - Draw text, e.g., title for a poster; adjust space between words and kerning
   - Draw straight lines; draw manual lines and adjust nodes
   - Fill and Stroke changing, e.g. colour, stroke style (Shift+Cmd+F)
   - Align objects, by eye with ruler or automatically (Shift+Cmd+A)
