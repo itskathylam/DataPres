@@ -123,3 +123,5 @@ We recreate a few of the panels in the figure above and refine the plots togethe
   Try changing alpha \
   Trying changing the geom_point shape \
   Try geom_jitter
+  
+Post-class: As requested, I have uploaded the [R script](https://github.com/itskathylam/DataPres/blob/main/figure_refinement/figure_refinement.R) that we worked on together in our figure refinement exercise.
